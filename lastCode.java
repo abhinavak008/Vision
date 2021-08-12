@@ -1,5 +1,5 @@
 import java.util.*;
-public class Main
+public class lastCode
 {
 	public static void main(String[] args) {
 	    System.out.print("Enter the Number till which U want to print fibonacci series: ");
