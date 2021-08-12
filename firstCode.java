@@ -1,13 +1,7 @@
-/******************************************************************************
 
-                            Online Java Compiler.
-                Code, Compile, Run and Debug java program online.
-Write your code in this editor and press "Run" button to execute it.
-
-*******************************************************************************/
 //import package
 import java.util.*;
-public class Main
+public class firstCode
 {
 	public static void main(String[] args) {
 	    System.out.print("Enter the Number till which U want to print fibonacci series: ");
