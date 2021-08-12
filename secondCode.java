@@ -1,6 +1,6 @@
 //import package
 import java.util.*;
-public class revFibo
+public class secondCode
 {
 	public static void main(String[] args) {
 	    System.out.print("Enter the Number till which U want to print fibonacci series: ");
