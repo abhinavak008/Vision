@@ -1,6 +1,6 @@
 
 import java.util.*;
-public class countOddEven
+public class thirdCode
 {
 	public static void main(String[] args) {
 	    System.out.print("Enter the Number till which U want to print fibonacci series: ");
